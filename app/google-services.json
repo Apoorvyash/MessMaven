@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "35464718626",
+    "project_id": "mess-maven-demo",
+    "storage_bucket": "mess-maven-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35464718626:android:540e4737cd93ec6bf65d7b",
+        "android_client_info": {
+          "package_name": "com.androrubin.messmavendemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35464718626-igg2sothlrgcbrmk9ucfe6vqmcg39v26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxYZUmMCEcoLa5npGXXk-Wjao7dlWFBMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35464718626-igg2sothlrgcbrmk9ucfe6vqmcg39v26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
